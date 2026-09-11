@@ -1,115 +1,83 @@
-# 🍕 Domino's Pizza Sales Dashboard
+<div align="center">
 
-## 📊 Project Overview
+# 🍕 Domino's Sales Analysis Dashboard
 
-This project presents an interactive sales analytics dashboard
-developed using Microsoft Excel.
+**Transforming 5,000+ rows of raw sales data into actionable business insights.**
 
-The dashboard provides a comprehensive view of Domino's sales
-performance across different regions, cities, pizza products,
-order types and categories.
+![Tool](https://img.shields.io/badge/TOOL-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Project](https://img.shields.io/badge/PROJECT-Dashboard-0B3B60?style=for-the-badge)
+![Domain](https://img.shields.io/badge/DOMAIN-Food%20Delivery-C8102E?style=for-the-badge)
 
-## 🎯 Business Objectives
+### 🔴 [CLICK HERE FOR LIVE INTERACTIVE PREVIEW](https://parvjain921.github.io/Dominos-Sales-Dashboard/) 🔴
 
-The objective of this dashboard is to:
+</div>
 
-- Monitor overall sales performance
-- Analyze order volume and average order value
-- Identify top-performing cities and stores
-- Identify best-selling pizza products
-- Compare Veg vs Non-Veg sales
-- Analyze sales performance by region
-- Understand different order types
-- Track yearly sales trends
-- Monitor customer ratings and delivery performance
+---
 
-## 📌 Key Performance Indicators
+## 📸 Dashboard Preview
 
-- Total Sales: 24,03,742
-- Total Orders: 5,000
-- Average Order Value: 480.7
-- Average Customer Rating: 4.05
-- Average Delivery Time: 31.4
+![Domino's Sales Dashboard Preview](./DOMINOS%20DASHBOARD%20.png.png)
 
-## 📈 Dashboard Analysis
+---
 
-### Regional Performance
-The dashboard analyzes sales contribution across:
+## 📌 Project Overview
 
-- East
-- West
-- North
-- South
+This project presents an interactive **Domino's Sales Analysis Dashboard**, built first in **Microsoft Excel** using Pivot Tables, Pivot Charts and Slicers, and then rebuilt as a **live, filterable web dashboard** (HTML + Chart.js) so it can be explored by anyone, anywhere — no Excel required.
 
-### Product Performance
-The dashboard identifies the Top 5 pizzas based on sales.
+By processing **5,000 order-level records** across 10 cities and 4 regions, this dashboard bridges the gap between raw transactional data and strategic decision-making — covering sales performance, city/region trends, product mix, and delivery efficiency.
 
-### City Performance
-The dashboard highlights the Top 5 cities based on net sales.
+---
 
-### Store Performance
-The dashboard compares the Top 5 stores by net sales.
+## 🎯 The Business Problem
 
-### Order Analysis
-Orders are analyzed across:
+A food-delivery business generates thousands of order records every month, but raw data alone doesn't answer the questions that matter:
+- Which regions and cities actually drive revenue?
+- Are customers leaning veg or non-veg?
+- Which stores and pizzas are top performers?
+- Is delivery speed hurting the customer experience?
 
-- Delivery
-- Dine-in
-- Takeaway
+This dashboard turns that raw data into a single view that answers all of the above — interactively.
 
-### Category Analysis
-Sales are compared between:
+---
 
-- Veg
-- Non-Veg
+## 📈 Key Highlights
+
+| Metric | Value |
+|---|---|
+| 💰 Total Net Sales | ₹24,03,742+ |
+| 🛒 Total Orders | 5,000 |
+| 💵 Average Order Value | ₹480.7 |
+| ⭐ Average Customer Rating | 4.05 / 5 |
+| 🛵 Average Delivery Time | 31.4 min |
+| 🥦 Veg vs 🍗 Non-Veg Sales Split | 57% vs 43% |
+| 🏆 Top Region by Sales | South (30.9%) |
+
+---
 
 ## 🛠️ Tools & Skills
 
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPI Cards
-- Data Visualization
-- Dashboard Design
+`Microsoft Excel` · `Pivot Tables` · `Pivot Charts` · `Slicers` · `Data Cleaning` · `Data Analysis` · `Dashboard Design` · `HTML/CSS/JS` · `Chart.js`
 
-## 🎛️ Interactive Features
+---
 
-The dashboard includes interactive filters for:
+## 📊 What's Inside
 
-- Order Year
-- Category
-- Order Type
-- City
+- 🗺️ Region, City & Store-wise sales analysis
+- 🍕 Top-selling pizzas and Veg vs Non-Veg breakdown
+- 🛵 Order type mix — Delivery / Dine-in / Takeaway
+- 📅 Monthly net sales trend
+- 🎛️ Fully interactive filters — Year, Region, City, Category, Order Type
 
-These filters allow users to dynamically explore the sales data.
+---
 
-## 🖼️ Dashboard Preview
+## 💡 What I Learned
 
-![Domino's Sales Dashboard](Dashboard_Screenshot.png)
+This project strengthened my skills in data cleaning, data analysis, visualization, dashboard design, and translating raw data into insights a business can act on.
 
-## 📂 Project Files
+---
 
-| File | Description |
-|---|---|
-| `Dominos_Sales_Dashboard.xlsx` | Complete interactive Excel dashboard |
-| `Dashboard_Screenshot.png` | Dashboard preview |
+<div align="center">
 
-## 💡 Key Insights
+**Made by [Parv Jain]** · [LinkedIn](#) · [Portfolio](#)
 
-The dashboard can be used to identify:
-
-- Highest-performing regions
-- Top-performing cities
-- Best-selling pizza products
-- Store-level sales performance
-- Veg vs Non-Veg sales contribution
-- Order-type distribution
-- Year-over-year sales trends
-
-## 👨‍💻 Skills Demonstrated
-
-Excel | Data Analysis | Data Visualization |
-Pivot Tables | Pivot Charts | Dashboard Development
+</div>
