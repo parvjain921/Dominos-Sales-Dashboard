@@ -78,6 +78,6 @@ This project strengthened my skills in data cleaning, data analysis, visualizati
 
 <div align="center">
 
-**Made by [Parv Jain]** · [LinkedIn](#) · [Portfolio](#)
+**Made by [Parv Jain]** · [https://www.linkedin.com/in/parv-jain-6b3038419?utm_source=share_via&utm_content=profile&utm_medium=member_android](#) · [https://github.com/parvjain921](#)
 
 </div>
